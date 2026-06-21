@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../momentum-chain"
+		},
+		{
+			"path": "../launchpad-backend"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../momentum-frontend"
+		}
+	],
+	"settings": {}
+}

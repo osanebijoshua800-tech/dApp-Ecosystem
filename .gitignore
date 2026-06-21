@@ -1,19 +1,18 @@
-# Dependencies
+# Node dependencies
 node_modules/
 
-# Environment Variables
+# Environment secrets
 .env
+.env.local
 
-# Logs
-logs/
-*.log
-
-# Build/Cache/Dist folders
+# Build artifacts
 dist/
 build/
-cache/
-artifacts/
 
-# System Files
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS metadata
 .DS_Store
-.vscode/
