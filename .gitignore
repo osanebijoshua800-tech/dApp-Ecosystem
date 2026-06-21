@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Environment Variables
+.env
+
+# Logs
+logs/
+*.log
+
+# Build/Cache/Dist folders
+dist/
+build/
+cache/
+artifacts/
+
+# System Files
+.DS_Store
+.vscode/
